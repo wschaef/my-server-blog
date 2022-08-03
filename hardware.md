@@ -14,10 +14,19 @@ At the current state an Intel Atom N6005 would be a good choice having CPU/"Powe
 
 There is practicaly no market for dedicated efficient home servers. 
 
-What is about refurbished hardware? The market is full of workstations with 4rd generation of Intel cor i5 CPUs. Looking at the TDP (> 75 W)
+What is about **refurbished hardware**? The market is full of workstations with 4rd generation of Intel core i5 CPUs. Looking at the TDP (> 75 W)
 I'have skipped the idea of having older hardware.
 
-All new compact workstations with latest Intel Atom N6XXX have a worser value/price ration in comparision with the 4rd generation of Intel Atom L4XXX.
+What is about **NAS servers**. I have a qnap [TS-231](https://www.qnap.com/de-de/product/ts-231). It supports docker! 
+![image](https://user-images.githubusercontent.com/7858781/182562336-a9d08aff-b003-4d0c-8e30-ccf04fa67dbf.png)
+
+
+But:
+
+* the CPU is an RAM is most probably not sufficient
+* The most valueable I have in the network is my data. I've decided to avoid any experiments in my NAS in order to avoid unintentional data exposure.
+
+All **new compact workstations** with latest Intel Atom N6XXX have a worser value/price ration in comparision with the 4rd generation of Intel Atom L4XXX.
 There I can get a workstation with 8G RAM for 150€. Filtering to 16G RAM reduces the number of deals significant. I'm no sure if an Atom L4xxx would be
 sufiicient, but 8G of RAM most probably can become a bottleneck. 
 
