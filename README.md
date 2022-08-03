@@ -1,4 +1,4 @@
-# my-server-blog
+# My "home server" project - blog
 
 ## Introduction
 
